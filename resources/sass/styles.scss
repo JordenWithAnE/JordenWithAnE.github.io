@@ -1,0 +1,18 @@
+/*
+ * ------------------------------------------------
+ *
+ * Primary Stylesheet Used To Import All
+ * Stylesheets
+ *
+ * ------------------------------------------------
+ */
+
+// Bootstrap
+@import '../../node_modules/bootstrap/scss/bootstrap';
+
+// Import Styling Components
+@import 'components/variables.scss';
+@import 'components/bootstrap.scss';
+
+// Import Styling Pages
+@import 'pages/index.scss';
