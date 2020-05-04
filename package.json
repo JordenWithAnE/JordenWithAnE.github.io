@@ -1,7 +1,8 @@
 {
-  "name": "jorden-with-an-e",
+  "name": "jordenwithane",
   "version": "1.0.0",
-  "description": "jorden-with-an-e",
+  "description": "jordenwithane",
+  "homepage": "https://JordenWithAnE.github.io",
   "main": "gulpfile.js",
   "author": "Jorden Powley",
   "license": "ISC",
